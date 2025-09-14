@@ -25,19 +25,19 @@ Unit Cost      | Cost per item
 # Additions to the dataset
 
 Total Revenue	<br><br>
-Total Cost	
-Total Profit	
-Order_Year	
-Order_Month	
+Total Cost	<br><br>
+Total Profit	<br><br>
+Order_Year	<br><br>
+Order_Month	<br><br>
 
 # KPIs created
 
-Total Revenue by Year
-Total Revenue by Year and Region
-Revenue by Item Type
-Total Revenue and Cost by Region
-Total Revenue by Order Priority
-Revenue by Country
+Total Revenue by Year <br><br>
+Total Revenue by Year and Region <br><br>
+Revenue by Item Type <br><br>
+Total Revenue and Cost by Region <br><br>
+Total Revenue by Order Priority <br><br>
+Revenue by Country <br><br>
 
 
 
