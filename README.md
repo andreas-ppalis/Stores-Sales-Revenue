@@ -24,7 +24,7 @@ Unit Cost      | Cost per item
 
 # Additions to the dataset
 
-Total Revenue	
+Total Revenue	<br><br>
 Total Cost	
 Total Profit	
 Order_Year	
