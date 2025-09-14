@@ -8,7 +8,6 @@ In this project, I have created a dashboard for a multinational departmental sto
 
 The dataset contains 5000 rows of sales data distributed across 12 columns as follows:
 
-Column	       | Description <br><br>
 Region         | Geographical regions where stores are located <br><br>
 Country	       | Countries where stores are located <br><br>
 Item Type      | Type of item ordered <br><br>
