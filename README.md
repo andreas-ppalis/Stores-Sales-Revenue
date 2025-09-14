@@ -8,19 +8,19 @@ In this project, I have created a dashboard for a multinational departmental sto
 
 The dataset contains 5000 rows of sales data distributed across 12 columns as follows:
 
-Column	       | Description
-Region         | Geographical regions where stores are located
-Country	       | Countries where stores are located
-Item Type      | Type of item ordered
-Rep Name       | Name of the representative who handled the order
-Sales Channel  | Whether the order was online or offline
-Order Priority | Priority of the Order Made
-Order Date     | Date the order was placed
-Order ID       | 9 digit order ID
-Ship Date      | Date the order was shipped
-Units Sold     | Units of the product ordered
-Unit Price     | Price per item
-Unit Cost      | Cost per item
+Column	       | Description <br><br>
+Region         | Geographical regions where stores are located <br><br>
+Country	       | Countries where stores are located <br><br>
+Item Type      | Type of item ordered <br><br>
+Rep Name       | Name of the representative who handled the order <br><br>
+Sales Channel  | Whether the order was online or offline <br><br>
+Order Priority | Priority of the Order Made <br><br>
+Order Date     | Date the order was placed <br><br>
+Order ID       | 9 digit order ID <br><br>
+Ship Date      | Date the order was shipped <br><br>
+Units Sold     | Units of the product ordered <br><br>
+Unit Price     | Price per item <br><br>
+Unit Cost      | Cost per item <br><br>
 
 # Additions to the dataset
 
